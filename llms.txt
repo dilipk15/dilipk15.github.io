@@ -1,0 +1,34 @@
+# Dilip Kashyap
+
+> Dilip Kashyap is a software developer based in India, with 9 years of experience. He builds business automation (including Google Workspace and Apps Script), websites and custom web applications for small businesses in the UK, US, Canada, Australia and New Zealand. Projects are quoted at a fixed price, and clients own all code and data.
+
+Contact: dilipkashyap.sd@gmail.com (replies within one working day; first call is free)
+Location: India (IST, UTC+5:30)
+Serves: United Kingdom, United States, Canada, Australia, New Zealand
+How projects work: short call, then a written fixed-price quote within 2 working days, 50% upfront and 50% on completion, 30 days of free fixes, client owns all code and data.
+
+## Services
+- [Business Automation](https://dilipk15.github.io/services/automation/): The repetitive jobs you or your staff do every week, handled automatically in the tools you already use. Includes: Enquiry → quote → follow-up, without copy and paste; Invoices, payment reminders and receipts; Booking confirmations and appointment reminders; Reports and dashboards built from Google Sheets; Google Workspace automation (Gmail, Sheets, Docs, Drive, Calendar, Forms) with Apps Script; Connecting forms, CRMs and payment tools so information moves on its own.
+- [Websites](https://dilipk15.github.io/services/websites/): A fast, mobile-friendly site that explains what you do and makes it easy to get in touch. Includes: New websites and redesigns of dated sites; Quote-request and booking forms people actually finish; Service and location pages written for Google search; Google Business Profile, Search Console and analytics setup; Speed, security, mobile and accessibility fixes on existing sites.
+- [Custom Web Applications](https://dilipk15.github.io/services/web-applications/): Software shaped around how your business actually works, when spreadsheets and generic tools stop fitting. Includes: Customer and job portals; Job, staff and scheduling management systems; Booking and membership systems; Internal dashboards and admin panels; Turning a struggling team spreadsheet into a proper system.
+
+## Work
+- Research Internship Portal (Built as lead developer): Replaced 24 Google Forms and a pile of spreadsheets with one self-service portal for a university research internship programme.
+- Smart Quote Generator (Open source): Turns a quote request form into a priced, branded PDF quote, emails it to the customer and follows up automatically. article: https://dilipkashyap15.medium.com/i-replaced-paid-proposal-software-with-one-google-apps-script-file-free-open-source-b0fd71939ab9 github: https://github.com/dilipk15/automation_sqg demo: https://youtu.be/pbLiCOTb4T0
+- AI Meeting Notes (Open source): Picks up new Google Meet transcripts, summarises them with Gemini, saves a formatted Doc and emails the notes to attendees. article: https://levelup.gitconnected.com/i-built-a-free-otter-ai-alternative-for-google-meet-using-gemini-apps-script-fd4b055f9913 github: https://github.com/dilipk15/dilipkashyap/tree/main/tools/meeting-notes-ai
+- FormPay: Payments for Google Forms (Personal project): Turns any Google Form into paid registration: each registrant gets a Razorpay payment link, and their row updates to "Paid" automatically. article: https://levelup.gitconnected.com/google-forms-doesnt-accept-payments-here-s-how-i-built-a-bridge-to-razorpay-ea0763459bbc demo: https://youtu.be/tw5LwsUpbik
+- Member Hub with QR Check-in (Open source): Membership system for gyms and studios: members get a QR code, staff scan it at the door, and renewal reminders go out automatically. article: https://dilipkashyap15.medium.com/i-built-a-free-membership-qr-check-in-system-that-replaces-mindbody-glofox-clubready-open-c874ed1d9661 github: https://github.com/dilipk15/qrmembershipsystem
+- AI Automation Tools Directory (Live website): A curated, searchable directory of AI automation tools with category filters, built as a fast static site with no framework. live: https://dilipk15.github.io/aitools/ github: https://github.com/dilipk15/aitools
+- Invoice Chaser (Open source): Tracks invoices, sends polite then firmer payment reminders on schedule, and emails a weekly summary of who owes what. article: https://levelup.gitconnected.com/i-built-2-free-automation-tools-for-small-businesses-quote-generator-invoice-chaser-open-33447f834622 github: https://github.com/dilipk15/invoice_chaser
+- Smart Scheduler (Open source): A public booking page powered by a Google Sheet, with live availability, double-booking protection and confirmation emails. article: https://levelup.gitconnected.com/the-calendly-alternative-thats-just-a-google-sheet-c1747f7b2e5a github: https://github.com/dilipk15/smart-scheduler demo: https://youtu.be/nhLArXObFEg
+- AI Cold Email Workflow (Personal project): An AI-assisted workflow that researches each lead and drafts a personal first email, instead of sending the same template to everyone. article: https://levelup.gitconnected.com/i-stopped-sending-cold-email-templates-this-ai-workflow-replaced-them-5063f37c15f2
+- Outreach Engine (Personal project): Sends personalised emails in small batches, follows up in the same thread, and marks replies, bounces and opt-outs in the sheet.
+- This Website (Personal project): A fast business website with structured data for search engines and AI assistants, scoring 99 to 100 on Lighthouse.
+- All projects: https://dilipk15.github.io/#work
+
+## About
+- [About Dilip Kashyap](https://dilipk15.github.io/about/): 9 years of software development (PHP, Laravel, JavaScript, MySQL), 400+ Google Apps Script automations, leads a small development team, Google Project Management Certificate.
+- [Contact](https://dilipk15.github.io/contact/)
+- LinkedIn: https://www.linkedin.com/in/dilipkashyapofficial/
+- Medium: https://dilipkashyap15.medium.com/
+- GitHub: https://github.com/dilipk15
